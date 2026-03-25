@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /bungee-airdrop/
+Sitemap: https://bungee-airdrop.github.io/sitemap.xml
